@@ -13,6 +13,8 @@
 - tomm-rodion
 - bogdanklymovskyy
 
+[FORK](https://vladimir-plotnikov.github.io/nezlamniPRJ/)
+
 ## посилання
 
 [API](https://www.themoviedb.org/) &
