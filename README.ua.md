@@ -13,7 +13,7 @@
 - tomm-rodion
 - bogdanklymovskyy
 
-[FORK](https://vladimir-plotnikov.github.io/nezlamniPRJ/)
+[FORK](https://github.com/Vladimir-Plotnikov/nezlamniPRJ)
 
 ## посилання
 
